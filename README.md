@@ -5,10 +5,10 @@
 - Java (am besten Version 17) 
 -  Gradle (am besten 7.5.1) <br>
 -  Java Programmierkenntnisse <br> 
--  - Verwendung von Gradle und Git <br>
--  - Grundlagen Dezentrale Systeme <br>
--  - Grundlagen XML<br>
--  - Grundlagen JSON & REST<br>
+-  Verwendung von Gradle und Git <br>
+-  Grundlagen Dezentrale Systeme <br>
+-  Grundlagen XML<br>
+-  Grundlagen JSON & REST<br>
 
 ## Installieren und ausführen
 
